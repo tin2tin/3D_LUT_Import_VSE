@@ -1,5 +1,4 @@
-# 3D LUT Import in the Blender VSE
-Import 3D Lut onto selected strips in the Blender VSE. Apply .cube LUTs as RGB curves in Blender's Video Sequence Editor with optional grayscale conversion
+# Import .cube LUTs as RGB curves in Blender's Video Sequence Editor (VSE) with optional grayscale conversion
 
 
 https://github.com/user-attachments/assets/fd3ac91d-c23f-45cf-ac0f-8d0f04d6bccd
